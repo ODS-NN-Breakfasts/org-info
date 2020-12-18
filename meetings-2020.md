@@ -91,17 +91,17 @@
 |     |     |     |   [***=1=***](https://t.me/nnodsbreakfast_announce/43) (Z) |   2 |   3 |   4 |
 |   5 |   6 |   7 |   8 |   9 |  10 |  [***=11=***](https://t.me/nnodsbreakfast_announce/45) (Z) |
 |  12 |  13 |  14 |  [***=15=***](https://t.me/nnodsbreakfast_announce/47) (Z) |  16 |  17 |  18 |
-|  19 |  20 |  21 |  22 |  23 |  24 |  ***=25=*** (Z) |
-|  26 |  27 |  28 |  ***=29=*** (Z) |  30 |  31 |     |
+|  19 |  20 |  21 |  22 |  23 |  24 |  [***=25=***](https://t.me/nnodsbreakfast_announce/48) (Z) |
+|  26 |  27 |  28 |  [***=29=***](https://t.me/nnodsbreakfast_announce/51) (Z) |  30 |  31 |     |
 
 ## Ноябрь 2020
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     |     |     |     |   1 |
-|   2 |   3 |   4 |   5 |   6 |   7 |   ***=8=*** (Z) |
-|   9 |  10 |  11 |  ***=12=*** (Z) |  13 |  14 |  15 |
-|  16 |  17 |  18 |  19 |  20 |  21 |  ***=22=*** (Z) |
-|  23 |  24 |  25 |  ***=26=*** (Z) |  27 |  28 |  29 (Z) |
+|   2 |   3 |   4 |   5 |   6 |   7 |   [***=8=***](https://t.me/nnodsbreakfast_announce/52) (Z) |
+|   9 |  10 |  11 |  [***=12=***](https://t.me/nnodsbreakfast_announce/54) (Z) |  13 |  14 |  15 |
+|  16 |  17 |  18 |  19 |  20 |  21 |  [***=22=***](https://t.me/nnodsbreakfast_announce/56) (Z) |
+|  23 |  24 |  25 |  [***=26=***](https://t.me/nnodsbreakfast_announce/57) (Z) |  27 |  28 |  29 (Z) |
 |  30 |     |     |     |     |     |     |
 
 ## Декабрь 2020
